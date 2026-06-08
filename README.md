@@ -9,3 +9,5 @@
   - [Audit Logs](https://github.com/AmeerahIAM/audit-logs)
   - [Sign-In Logs](https://github.com/AmeerahIAM/sign-in-logs)
   - [Authentication](https://github.com/AmeerahIAM/authentication)
+
+- <b>Microsoft Azure Entra ID</b>
